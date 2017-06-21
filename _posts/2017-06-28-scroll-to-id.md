@@ -74,7 +74,7 @@ a:link {text-decoration: none;font-family: arial}
 <p>Ini hanyalah sedikit tutorial penggunaan jQuery dan CSS. Yang saya gunakan sebenarnya 90% CSS, untuk menguasai jQuery lebih jauh saya butuh waktu dan banyak proyek tentang jQuery supaya dapat mengenal jQuey lebih jauh. Tidak ada yang spesial dari transisi-transisi CSS yang saya gunakan, hanya yang ringan-ringan saja</p>
 </section>
 </div>
-<script src='https://rawgit.com/brayenid/borneoscript3/master/jquery.easing.1.3.js'></script>
+<script src='https://rawgit.com/brayenid/borneoscript3/master/jquery.easing.1.3.js'/>
 <script>
   //Scroll to section ID
 $('.page-scroll').on('click',function(e){
